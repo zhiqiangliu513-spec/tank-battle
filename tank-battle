@@ -1,0 +1,6 @@
+git init
+git add index.html
+git commit -m "Tank game"
+git branch -M main
+git remote add origin https://github.com/https://github.com/zhiqiangliu513-spec/tank-battle.git
+git push -u origin main
